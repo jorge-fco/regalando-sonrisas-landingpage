@@ -1,7 +1,7 @@
 # Regalando sonrisas MX
 Landingpage
 
-## Architecture
+## 📁 Architecture
 - Home
 - Erro 404
 - Privacy
