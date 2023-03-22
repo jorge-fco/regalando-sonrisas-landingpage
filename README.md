@@ -6,3 +6,7 @@ Landingpage
 - Erro 404
 - Privacy
 - Terms
+
+## Features
+- Title
+- Favicon
