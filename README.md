@@ -18,4 +18,4 @@ Landingpage
 - Description
 - Favicon
 - [x] Navigation fixed
-- Navigation scroll
+- [x] Navigation scroll
