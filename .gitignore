@@ -5,7 +5,9 @@ prepros.config
 prepros-6.config
 
 #= ASSETS
-assets/*
+assets/css
+assets/scss
+assets/js
 
 #= PAGES
 .DS_Store
