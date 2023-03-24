@@ -9,11 +9,13 @@ Landingpage
 
 ## Structure
 - Cover
+- About
+- Process
 
 ## Features
-- [ x ] Title
-- [ x ] Subtitle
+- [x] Title
+- [x] Subtitle
 - Description
 - Favicon
-- Navigation fixed
+- [x] Navigation fixed
 - Navigation scroll
