@@ -7,6 +7,13 @@ Landingpage
 - Privacy
 - Terms
 
+## Structure
+- Cover
+
 ## Features
-- Title
+- [ x ] Title
+- [ x ] Subtitle
+- Description
 - Favicon
+- Navigation fixed
+- Navigation scroll
