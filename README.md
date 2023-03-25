@@ -11,11 +11,16 @@ Landingpage
 - Cover
 - About
 - Process
+- Candidates
+- Donations
 
 ## Features
 - [x] Title
 - [x] Subtitle
-- Description
+- [x] Description
 - Favicon
 - [x] Navigation fixed
 - [x] Navigation scroll
+- [x] Menu
+- Web animations
+- Web responsive
