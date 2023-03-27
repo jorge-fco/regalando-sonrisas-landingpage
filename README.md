@@ -24,3 +24,8 @@ Landingpage
 - [x] Menu
 - Web animations
 - Web responsive
+
+
+## Deploy
+- Google
+- Google Site Verification
