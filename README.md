@@ -18,14 +18,14 @@ Landingpage
 - [x] Title
 - [x] Subtitle
 - [x] Description
-- Favicon
+- [x] Share Image
+- [x] Favicon
 - [x] Navigation fixed
 - [x] Navigation scroll
 - [x] Menu
 - Web animations
 - Web responsive
 
-
 ## Deploy
-- Google
+- Google Analytics
 - Google Site Verification
