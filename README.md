@@ -7,14 +7,14 @@ Landingpage
 - Privacy
 - Terms
 
-## Structure
+## 📦 Structure
 - Cover
 - About
 - Process
 - Candidates
 - Donations
 
-## Features
+## ⚙️ Features
 - [x] Title
 - [x] Subtitle
 - [x] Description
@@ -24,8 +24,10 @@ Landingpage
 - [x] Navigation scroll
 - [x] Menu
 - Web animations
-- Web responsive
+- [x] Web responsive
 
-## Deploy
-- Google Analytics
+## 🚀 Deploy
+- Facebook App ID
+- [x] Facebook Share Debugger
+- [x] Google Analytics
 - Google Site Verification
