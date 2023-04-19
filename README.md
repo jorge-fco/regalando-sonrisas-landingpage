@@ -31,3 +31,6 @@ Landingpage
 - [x] Facebook Share Debugger
 - [x] Google Analytics
 - Google Site Verification
+
+## Resources
+[Creating a custom 404 page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
